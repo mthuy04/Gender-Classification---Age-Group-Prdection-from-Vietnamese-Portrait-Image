@@ -11,7 +11,7 @@
 
 ## 📸 Demo Preview
 *(Place your prediction result image here, e.g., `demo_result.png`)*
-![Demo Prediction](path/to/your/image.png)
+![Uploading Ảnh màn hình 2025-12-31 lúc 23.21.34.png…]()
 
 ## 📖 Introduction
 Demographic classification (Gender & Age) is a crucial step in modern **KYC (Know Your Customer)** systems, personalized marketing, and security surveillance. 
