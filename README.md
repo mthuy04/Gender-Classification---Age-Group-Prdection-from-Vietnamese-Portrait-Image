@@ -10,7 +10,6 @@
 ---
 
 ## 📸 Demo Preview
-*(Place your prediction result image here, e.g., `demo_result.png`)*
 <img width="853" height="228" alt="Ảnh màn hình 2025-12-31 lúc 23 21 34" src="https://github.com/user-attachments/assets/f7318863-7bd3-453a-bd2d-b6a5a6d8c4a2" />
 
 ## 📖 Introduction
